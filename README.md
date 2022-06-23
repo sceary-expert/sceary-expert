@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjoy Dey</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-![github logo](https://user-images.githubusercontent.com/84634405/175222891-35fff0bc-36cd-47e3-bfc5-0ec29831304e.gif)
 (img align="right" alt="Coding" width="400" src="")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sceary-expert&label=Profile%20views&color=0e75b6&style=flat" alt="sceary-expert" /> </p>
 
