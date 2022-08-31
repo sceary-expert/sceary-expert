@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhananjoy Dey</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate front-end developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sceary-expert&label=Profile%20views&color=0e75b6&style=flat" alt="sceary-expert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceary-expert" alt="sceary-expert" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **any Django or react project**
+- 👯 I’m looking to collaborate on **any javaScript or react project**
 
-- 💬 Ask me about **react, Django,**
+- 💬 Ask me about **react, javScript**
 
 - 📫 How to reach me **deydhananjoy5@gmail.com**
 
