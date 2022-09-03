@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhananjoy Dey</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
+
+![Deyly](https://user-images.githubusercontent.com/84634405/182534176-79a0e5bd-66a9-4830-a8ea-93f11d36606b.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sceary-expert&label=Profile%20views&color=0e75b6&style=flat" alt="sceary-expert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sceary-expert" alt="sceary-expert" /></a> </p>
