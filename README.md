@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any javaScript or react project**
 
-- 💬 Ask me about **react, javScript**
+- 💬 Ask me about **react, javaScript**
 
 - 📫 How to reach me **deydhananjoy5@gmail.com**
 
