@@ -40,7 +40,7 @@ current_job: Open Source Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Technology",
+    "Bachelor in Technology",
   ]
 company: GitHub
 
