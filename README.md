@@ -95,7 +95,7 @@ currently_learning: ["Django, React"]
 </p>
 <!-- platane/snk works, it just puts it on a new branch -->
 
- ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/sceary-expert/sceary-expert/blob/output/github-contribution-grid-snake.gif)
 
 
 <p align="center">
