@@ -80,24 +80,6 @@ currently_learning: ["Django, React"]
 
 </br>
 
-## 📈 GitHub Stats 
-
-<p align="center">
- 
- 
-
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sceary-expert&layout=compact&theme=radical&custom_title=Languages" /> 
- 
- <br>
- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=sceary-expert&theme=redical">
- 
-</p>
-<!-- platane/snk works, it just puts it on a new branch -->
-
- ![snake gif](https://github.com/sceary-expert/sceary-expert/blob/output/github-contribution-grid-snake.gif)
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
 </p>
