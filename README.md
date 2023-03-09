@@ -40,7 +40,7 @@ current_job: Open Source Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor in Technology",
+    "Bachelor of Technology",
   ]
 company: GitHub
 
@@ -54,8 +54,6 @@ fields_of_interests:
   
 currently_learning: ["Django, React"]
 ```
-  
----  ```
 
 
 ### 🧰 Languages and Tools
