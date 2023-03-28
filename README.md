@@ -7,12 +7,9 @@
 
 # 🏄‍♂️ Dhananjoy Dey
 
-**`Digital Craftsman (Developer/Creator)`** 
+**`Digital Craftsman (Crafting exceptional digital experiences)`** 
 <br/><br/>
-Hey, I'm an Open Source Developer and Have good programming skills,
-knowledge of web programming and
-databases, and know the the Git
-version control system . I have
+Hey, I am passionate full-stack developer skilled in Golang, React, and MongoDB. I have
 perseverance and a capacity for solving
 problems and seeking information
 independently.
@@ -52,7 +49,7 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Django, React"]
+currently_learning: ["Spring Boot, React"]
 ```
 
 
